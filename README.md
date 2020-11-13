@@ -4,8 +4,8 @@ These projects are for technical interview assignments or to practice/learn any 
 </br>
 
 ## [Microservices Api](https://github.com/atiqg/hackerbay_microservices)     
-Backend microservices to support and simplify applications. Simple stateless microservices in Nodejs, with three major functionalities: Authentication with Json web token, JSON Patching and Image Thumbnail Generation.
-Project Include Dockerizing app, API tests, Code coverage report, JSdoc, Central Logging system and javascript linting.  
+Backend microservices to support and simplify applications. Simple stateless microservices in Nodejs, with three major functionalities: Authentication with **Json web token, JSON Patching and Image Thumbnail Generation.**
+Project Include **Dockerizing app, Unit Tests, Code coverage report, Central Logging system, javascript linting and JSdoc**.  
 </br>
 </br>
 
