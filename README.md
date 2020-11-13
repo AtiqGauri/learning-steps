@@ -1,5 +1,11 @@
 # Mini Projects      
-These projects are either for technical interview assignments or to practice/learn any specific concept.      
+These projects are for technical interview assignments or to practice/learn any specific concept.      
+</br>
+</br>
+
+## [Microservices Api](https://github.com/atiqg/hackerbay_microservices)     
+Backend microservices to support and simplify applications. Simple stateless microservices in Nodejs, with three major functionalities: Authentication with Json web token, JSON Patching and Image Thumbnail Generation.
+Project Include Dockerizing app, API tests, Code coverage report, JSdoc, Central Logging system and javascript linting.  
 </br>
 </br>
 
@@ -10,9 +16,16 @@ A web app to buy art by paying with bitcoins. The web app generates wallet addre
 </br>
 
 
+## [React Maze Runner](https://github.com/atiqg/react-maze-runner)     
+A simple maze game made with react.js(hooks api purely). It dynamically generates a maze based on user input, then sets few food sprites across the maze and a player in middle. Player needs to eat all the food spwaned on maze in minimum steps possible.
+[![react_maze_screenshot](./assets/react_maze_screenshot.jpg)](https://github.com/atiqg/react-maze-runner)     
+</br>
+</br>
+
+
 ## [Realtime Crypto Exchange Rate](https://github.com/atiqg/accessgate-labs-ticker)     
 A web app to showcase "realtime" exchange rate of all crypto-currencies. It fetches all crypto exchange types, then user can select one of them. A Ticker Web Socket is opened with selected exchange rate and realtime changes are shown on UI.
-[![blockonomics_screenshot](./assets/accessgate_screenshot.png)](https://github.com/atiqg/accessgate-labs-ticker)     
+[![crypto_exchange_screenshot](./assets/accessgate_screenshot.png)](https://github.com/atiqg/accessgate-labs-ticker)     
 </br>
 </br>
 
